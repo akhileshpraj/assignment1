@@ -1,0 +1,83 @@
+3. #include<stdio.h>
+int main()
+{
+    printf("\"mysirG.com\"");
+    return 0;
+}
+1.#include<stdio.h>
+int main()
+{
+    printf("Hello student ");
+    return 0;
+}
+2.#include<stdio.h>
+int main()
+{
+    printf("Hello student ");
+    return 0;
+}
+4#include<stdio.h>
+int main()
+{
+    float ar,r;
+    printf("enter a first radius");
+    scanf("%f",&r);
+    printf("enetr a secound redius");
+    scanf("%f",&r);
+    ar=3.14*r*r;
+    printf("area of the circle is %f ",ar);
+    return 0;
+    
+}
+5#include<stdio.h>
+int main()
+{
+    int x=printf("saurabh sir");
+    printf(" %d ",x);
+    printf("\n");
+    return 0;
+}
+6 #include<stdio.h>
+int main()
+{
+    int x=printf("Hello,Amit");
+    printf(" %d ",x);
+    return 0;
+}
+7#include<stdio.h>
+int main()
+{
+    printf("%%d");
+    return 0;
+}
+8. #include<stdio.h>
+int main()
+{
+    printf("\\n");
+    return 0;
+}
+8. #include<stdio.h>
+int main()
+{
+    printf("\\\\");
+    return 0;
+}
+10.
+#include<stdio.h>
+int main()
+{
+    printf("\\\\");
+    return 0;
+}
+11
+#include<stdio.h>
+int main()
+{
+    int HH,MM;
+    printf("enter a time table");
+    scanf("%d %d",&HH,&MM);
+    printf("%d hour and %d minute",HH,MM);
+    return 0;
+}
+12.
+ineuron
